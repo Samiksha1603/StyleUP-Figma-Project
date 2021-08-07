@@ -1,4 +1,8 @@
 # StyleUP-Figma-Project
+<br/>
+Introduction
+<br/>
+
 StyleUP is an apparel application UI created on Figma that focuses on the user’s visual experience.
 
 <br/>
